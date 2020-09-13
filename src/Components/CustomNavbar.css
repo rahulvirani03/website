@@ -1,0 +1,36 @@
+.navbar-expand {
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+}
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    background-color: #0650a0;
+    margin-bottom: 10px;
+
+}
+.navbar-light .navbar-toggler {
+    color: rgba(0,0,0,.5);
+    border-color: rgba(0,0,0,.1);
+}
+.navbar-expand .navbar-collapse {
+    position: relative;
+    display: flex!important;
+    flex-basis: auto;
+}
+
+a {
+    margin: 20px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.textCol{
+    color:white;
+}

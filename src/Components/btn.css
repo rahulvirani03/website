@@ -1,0 +1,35 @@
+.stylebtn{
+    background-color: rgb(77, 77, 245);
+    margin-left: 40px;
+    color: crimson;
+}
+.nayabtn
+{
+        background-color: blue;
+}
+
+
+.marginbtn{
+    margin: 10px;
+}
+
+.alert{
+   
+    justify-content: center;
+    width: 100%;
+}
+
+.alert1{
+    margin-top: 10px;
+   text-align: center;
+   
+   
+   
+}
+
+
+.alert4{
+  align-content: center;
+  margin-left: 40%;
+}
+

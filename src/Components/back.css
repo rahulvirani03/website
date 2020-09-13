@@ -1,0 +1,73 @@
+
+.height
+{
+    max-height: 400px;
+}
+
+.flex{
+    height: 50%;
+    width: 40%;
+    margin: 10px;
+}
+
+.h1style
+{
+    text-align: center;
+  
+    
+   
+   
+  
+  
+    
+    margin-right: auto;
+}
+
+.flex1 p
+{
+        color: whitesmoke;
+        text-align: center;
+        align-self: center;
+       width: 40%;
+       margin-left: 25%;
+        margin-top: 25%;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;
+}
+.cont{
+   
+    justify-content: center;
+  }
+
+.flex1{
+    
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/website-react-5774f.appspot.com/o/keagan-henman-xPJYL0l5Ii8-unsplash.jpg?alt=media&token=a8321ceb-d1cc-4836-955a-49bbb12ca9ad");
+    height: 600px;
+   
+    
+    overflow-y: scroll;
+    background-position: center ;
+    background-size: cover;
+    box-shadow: 3px 5px 7px rgba(0,0,0,0.5);
+   
+    
+   
+}
+.flex2{
+    
+
+    height: 600px;
+    color: lightskyblue;
+
+
+}
+
+.just
+{
+    justify-content: center;
+
+}
+
+.alert{
+        color: rgb(10, 10, 112);
+}
